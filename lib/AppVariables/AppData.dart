@@ -3,7 +3,7 @@ import 'package:flutter_music_neumorphism/Models/songModel.dart';
 List<SongModel> songs = [
   SongModel(
       id: '001',
-      name: $TESTCODEMAGIC,
+      name: 'New Life',
       singer: 'Future - the Weekend',
       thumbnail: 'https://i.ytimg.com/vi/doT10lpO1hI/maxresdefault.jpg'),
   SongModel(
