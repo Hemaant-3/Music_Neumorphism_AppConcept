@@ -87,7 +87,7 @@ class _SongDetailState extends State<SongDetail> {
                   Hero(
                     tag: 'imageHero',
                     child: SpinningImage(
-                      height: ScreenUtil().setHeight(800),
+                      height: ScreenUtil().setHeight(750),
                     ),
                   ),
                   Container(
